@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReWallution</string>
+
+    <!-- Splash -->
+    <string name="app_fancy_name">Re-Wallution</string>
+
+    <!-- Home -->
+    <string name="home_title">Select your preferences</string>
+    <string name="card_fav">Your favorites</string>
+    <string name="card_all_list">All list</string>
+    <string name="card_trending">Trending</string>
+    <string name="card_picks">Our picks</string>
+
+    <!-- Wallpaper List -->
+    <string name="go_home">Home</string>
+    <string name="author">Author</string>
+    <string name="location">Location</string>
+
+</resources>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ContentDescription"
+    tools:context=".screen.HomeActivity">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        style="@style/TextViewHead.Desc"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="@string/home_title"
+        android:layout_marginStart="@dimen/normal_margin"
+        android:layout_marginEnd="@dimen/normal_margin"
+        android:layout_marginTop="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/small_margin"/>
+
+    <!-- Card Favorite -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardFav"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/mini_margin"
+        android:layout_marginEnd="@dimen/tiny_margin"
+        android:layout_marginTop="@dimen/normal_margin"
+        android:layout_marginBottom="@dimen/tiny_margin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle"
+        app:layout_constraintEnd_toStartOf="@id/cardAllList"
+        app:layout_constraintBottom_toTopOf="@+id/cardTrending"
+        app:cardCornerRadius="@dimen/small_margin"
+        app:cardElevation="@dimen/small_margin">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivFav"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:text="@string/card_fav"
+                android:textColor="@color/dark_white"
+                android:background="@color/overlay"
+                android:padding="@dimen/normal_margin"
+                style="@style/TextViewHead.Desc"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Card All Lists -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardAllList"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/tiny_margin"
+        android:layout_marginEnd="@dimen/mini_margin"
+        app:layout_constraintStart_toEndOf="@id/cardFav"
+        app:layout_constraintTop_toTopOf="@id/cardFav"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/cardFav"
+        app:cardCornerRadius="@dimen/small_margin"
+        app:cardElevation="@dimen/small_margin">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivAllList"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:text="@string/card_all_list"
+                android:textColor="@color/dark_white"
+                android:background="@color/overlay"
+                android:padding="@dimen/normal_margin"
+                style="@style/TextViewHead.Desc"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Card Trending -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardTrending"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/tiny_margin"
+        android:layout_marginBottom="@dimen/small_margin"
+        app:layout_constraintStart_toStartOf="@id/cardFav"
+        app:layout_constraintTop_toBottomOf="@id/cardFav"
+        app:layout_constraintEnd_toEndOf="@id/cardFav"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:cardCornerRadius="@dimen/small_margin"
+        app:cardElevation="@dimen/small_margin">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivTrending"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:text="@string/card_trending"
+                android:textColor="@color/dark_white"
+                android:background="@color/overlay"
+                android:padding="@dimen/normal_margin"
+                style="@style/TextViewHead.Desc"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Card Our Picks -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardOurPicks"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintStart_toStartOf="@id/cardAllList"
+        app:layout_constraintTop_toTopOf="@id/cardTrending"
+        app:layout_constraintEnd_toEndOf="@id/cardAllList"
+        app:layout_constraintBottom_toBottomOf="@id/cardTrending"
+        app:cardCornerRadius="@dimen/small_margin"
+        app:cardElevation="@dimen/small_margin">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivPicks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:text="@string/card_picks"
+                android:textColor="@color/dark_white"
+                android:background="@color/overlay"
+                android:padding="@dimen/normal_margin"
+                style="@style/TextViewHead.Desc"
+                />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

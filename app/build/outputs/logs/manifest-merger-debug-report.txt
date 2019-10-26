@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a2f378b2702567fbd231c442497b030d/library-1.6.1/AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/c2e4806be8875ad5d141b345446069d6/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8987eda768c010fae6109bcabf436297/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/6bc2626fece78ba7f4b47b3029c7cf2e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/229784ef32dfc7830550743a8b508c44/glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/0071e8811450c420d965d447749045d9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/cff0f2f6dcc1b6e9f94335f3009dd1ce/circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3efbd1cd754e300f50c2fc496faa9e09/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/00d9a89176524a5432c8033b8c972b16/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ba252941010882c270d84d218d0ead6b/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3c14dd30b79b7b381fa7434439d6cd11/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/497c77f834c01f9bd7dcd6f863d06ca4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ef22decb3c684263ce5f6b7159edf660/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9f437f9d8300db7e265d2d177b78ba66/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/bbc4a443bae70ab98cfbd1ad90ef8e43/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/d532aefc9348c5ec8c829f6ff1cf9779/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a34ee746f2c5247d11895fe80b515156/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aeabadc0aa6998c2d74831dc4c2c0f3c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8554d2a6f85f6904d7ef2fc413d8e491/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/db31f1822ac2b1dbf76806fae0b0f092/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a6547b65677f0c43091d23828f8f4f5b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9927c5660a0c117921c8766f71127cbc/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a109eae9647f65c353ee5de4cd7816c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3288a1951cb4229d5d6c7463965f9704/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/578d3406901504dd91d2909a80823f49/gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/16e49467abb8fd9a2a20053ef44b7cd0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/72b9c9b70ea7a9c2680fb19cd124f6db/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9c8fa919304b1f22587a8c75d2173e3a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b0d3ef1eb8681cca574aff3b7d725bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8a717e1e79dcd25871ee282058db60c4/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/55792b5cd2c85f2f38d095d2f053a652/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aea0baddcbd518fa0551a515a207fa55/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/5e7f41fb4833438287fe679bab663159/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b15f1dd5d8818d0f955c72a08ed2d806/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/af7d137ed29bbba72439bb68412bef4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/4a38587f5e107f059a8e5f930de9be4e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/6bc2626fece78ba7f4b47b3029c7cf2e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/6bc2626fece78ba7f4b47b3029c7cf2e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/229784ef32dfc7830550743a8b508c44/glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/229784ef32dfc7830550743a8b508c44/glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/cff0f2f6dcc1b6e9f94335f3009dd1ce/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/cff0f2f6dcc1b6e9f94335f3009dd1ce/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/578d3406901504dd91d2909a80823f49/gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/578d3406901504dd91d2909a80823f49/gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/16e49467abb8fd9a2a20053ef44b7cd0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/16e49467abb8fd9a2a20053ef44b7cd0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:8:9-36
+activity#com.rewallution.screen.ListActivity
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:9-66
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:19-54
+activity#com.rewallution.screen.HomeActivity
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:16:9-57
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:16:19-54
+activity#com.rewallution.screen.SplashActivity
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:17:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a2f378b2702567fbd231c442497b030d/library-1.6.1/AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a2f378b2702567fbd231c442497b030d/library-1.6.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/c2e4806be8875ad5d141b345446069d6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/c2e4806be8875ad5d141b345446069d6/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8987eda768c010fae6109bcabf436297/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8987eda768c010fae6109bcabf436297/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/6bc2626fece78ba7f4b47b3029c7cf2e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/6bc2626fece78ba7f4b47b3029c7cf2e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/229784ef32dfc7830550743a8b508c44/glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/229784ef32dfc7830550743a8b508c44/glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/0071e8811450c420d965d447749045d9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/0071e8811450c420d965d447749045d9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/cff0f2f6dcc1b6e9f94335f3009dd1ce/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/cff0f2f6dcc1b6e9f94335f3009dd1ce/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3efbd1cd754e300f50c2fc496faa9e09/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3efbd1cd754e300f50c2fc496faa9e09/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/00d9a89176524a5432c8033b8c972b16/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/00d9a89176524a5432c8033b8c972b16/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ba252941010882c270d84d218d0ead6b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ba252941010882c270d84d218d0ead6b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3c14dd30b79b7b381fa7434439d6cd11/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3c14dd30b79b7b381fa7434439d6cd11/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/497c77f834c01f9bd7dcd6f863d06ca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/497c77f834c01f9bd7dcd6f863d06ca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ef22decb3c684263ce5f6b7159edf660/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/ef22decb3c684263ce5f6b7159edf660/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9f437f9d8300db7e265d2d177b78ba66/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9f437f9d8300db7e265d2d177b78ba66/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/bbc4a443bae70ab98cfbd1ad90ef8e43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/bbc4a443bae70ab98cfbd1ad90ef8e43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/d532aefc9348c5ec8c829f6ff1cf9779/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/d532aefc9348c5ec8c829f6ff1cf9779/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a34ee746f2c5247d11895fe80b515156/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a34ee746f2c5247d11895fe80b515156/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aeabadc0aa6998c2d74831dc4c2c0f3c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aeabadc0aa6998c2d74831dc4c2c0f3c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8554d2a6f85f6904d7ef2fc413d8e491/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8554d2a6f85f6904d7ef2fc413d8e491/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/db31f1822ac2b1dbf76806fae0b0f092/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/db31f1822ac2b1dbf76806fae0b0f092/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a6547b65677f0c43091d23828f8f4f5b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a6547b65677f0c43091d23828f8f4f5b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9927c5660a0c117921c8766f71127cbc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9927c5660a0c117921c8766f71127cbc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a109eae9647f65c353ee5de4cd7816c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/a109eae9647f65c353ee5de4cd7816c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/54e9bac0f157ffbc888c34f6ef409f8c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3288a1951cb4229d5d6c7463965f9704/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/3288a1951cb4229d5d6c7463965f9704/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/578d3406901504dd91d2909a80823f49/gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/578d3406901504dd91d2909a80823f49/gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/16e49467abb8fd9a2a20053ef44b7cd0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/16e49467abb8fd9a2a20053ef44b7cd0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/72b9c9b70ea7a9c2680fb19cd124f6db/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/72b9c9b70ea7a9c2680fb19cd124f6db/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9c8fa919304b1f22587a8c75d2173e3a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/9c8fa919304b1f22587a8c75d2173e3a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b0d3ef1eb8681cca574aff3b7d725bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b0d3ef1eb8681cca574aff3b7d725bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8a717e1e79dcd25871ee282058db60c4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/8a717e1e79dcd25871ee282058db60c4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/55792b5cd2c85f2f38d095d2f053a652/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/55792b5cd2c85f2f38d095d2f053a652/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aea0baddcbd518fa0551a515a207fa55/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/aea0baddcbd518fa0551a515a207fa55/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/5e7f41fb4833438287fe679bab663159/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/5e7f41fb4833438287fe679bab663159/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b15f1dd5d8818d0f955c72a08ed2d806/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/b15f1dd5d8818d0f955c72a08ed2d806/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/af7d137ed29bbba72439bb68412bef4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/af7d137ed29bbba72439bb68412bef4a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/4a38587f5e107f059a8e5f930de9be4e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/abhijeet/.gradle/caches/transforms-2/files-2.1/4a38587f5e107f059a8e5f930de9be4e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml

@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhijeet/Documents/ReWallution/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/abhijeet/Documents/ReWallution/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "503"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "502"
+                    }
+                },
+                {
+                    "source": "/home/abhijeet/.gradle/caches/transforms-2/files-2.1/0071e8811450c420d965d447749045d9/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "3859",
+                        "endLines": "58",
+                        "endColumns": "12",
+                        "endOffsets": "4004"
+                    }
+                },
+                {
+                    "source": "/home/abhijeet/.gradle/caches/transforms-2/files-2.1/c2e4806be8875ad5d141b345446069d6/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,28,42,43,44,45,49,50,51,52",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "507,642,777,852,939,1823,2719,2838,2965,3070,3294,3409,3516,3629",
+                        "endLines": "10,11,12,13,27,41,42,43,44,48,49,50,51,55",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "637,772,847,934,1818,2714,2833,2960,3065,3289,3404,3511,3624,3854"
+                    }
+                }
+            ]
+        }
+    ]
+}

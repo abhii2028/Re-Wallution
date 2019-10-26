@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin -->
+    <dimen name="large_dimen">32dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="mini_margin">4dp</dimen>
+    <dimen name="tiny_margin">2dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="normal_font">24sp</dimen>
+    <dimen name="small_font">16sp</dimen>
+    <dimen name="tiny_font">12sp</dimen>
+    <dimen name="large_font">36sp</dimen>
+
+    <!-- Progress bar -->
+    <dimen name="progress_bar_height">10dp</dimen>
+
+    <!-- Card -->
+    <dimen name="card_height">300dp</dimen>
+
+    <!-- Profile -->
+    <dimen name="profile_width_height">100dp</dimen>
+</resources>
