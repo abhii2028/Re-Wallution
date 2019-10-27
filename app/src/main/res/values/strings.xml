@@ -7,9 +7,9 @@
     <!-- Home -->
     <string name="home_title">Select your preferences</string>
     <string name="card_fav">Your favorites</string>
-    <string name="card_all_list">All list</string>
-    <string name="card_trending">Trending</string>
-    <string name="card_picks">Our picks</string>
+    <string name="latest">Latest</string>
+    <string name="popular">Popular</string>
+    <string name="oldest">Oldest</string>
 
     <!-- Wallpaper List -->
     <string name="go_home">Home</string>

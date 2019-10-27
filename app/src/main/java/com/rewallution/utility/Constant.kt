@@ -18,5 +18,12 @@ class Constant {
         // EXTRAS
         const val EXTRA_IMAGE_URL = "ImageUrl"
         const val EXTRA_IMAGE_DRAWABLE = "imageDrawable"
+        const val EXTRA_TYPE = "listType"
+
+        // Parameter
+        const val LATEST = "latest"
+        const val OLDEST = "oldest"
+        const val POPULAR = "popular"
+        const val FAVORITES = "favorites"
     }
 }

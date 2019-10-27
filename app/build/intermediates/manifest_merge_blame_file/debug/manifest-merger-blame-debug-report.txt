@@ -34,9 +34,9 @@
 22        android:testOnly="true"
 23        android:theme="@style/AppTheme" >
 23-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:14:9-40
-24        <activity android:name="com.rewallution.screen.ListActivity" />
-24-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:9-66
-24-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:19-54
+24        <activity android:name="com.rewallution.screen.WallpaperListActivity" />
+24-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:9-75
+24-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:15:19-63
 25        <activity android:name="com.rewallution.screen.HomeActivity" />
 25-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:16:9-57
 25-->/home/abhijeet/Documents/ReWallution/app/src/main/AndroidManifest.xml:16:19-54

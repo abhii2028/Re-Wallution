@@ -71,36 +71,40 @@ class HomeActivity : AppCompatActivity(), View.OnClickListener {
             //card favorites
             cardFav -> {
                 startActivity(
-                    Intent(this@HomeActivity, ListActivity::class.java)
+                    Intent(this@HomeActivity, WallpaperListActivity::class.java)
                         .putExtra(Constant.EXTRA_IMAGE_URL, Constant.imageFavURL)
                         .putExtra(Constant.EXTRA_IMAGE_DRAWABLE, R.drawable.favorites)
+                        .putExtra(Constant.EXTRA_TYPE,Constant.FAVORITES)
                 )
             }
 
             //card all list
             cardAllList -> {
                 startActivity(
-                    Intent(this@HomeActivity, ListActivity::class.java)
+                    Intent(this@HomeActivity, WallpaperListActivity::class.java)
                         .putExtra(Constant.EXTRA_IMAGE_URL, Constant.imageListURL)
                         .putExtra(Constant.EXTRA_IMAGE_DRAWABLE, R.drawable.list)
+                        .putExtra(Constant.EXTRA_TYPE,Constant.LATEST)
                 )
             }
 
             //card trending
             cardTrending -> {
                 startActivity(
-                    Intent(this@HomeActivity, ListActivity::class.java)
+                    Intent(this@HomeActivity, WallpaperListActivity::class.java)
                         .putExtra(Constant.EXTRA_IMAGE_URL, Constant.imageTrendingURL)
                         .putExtra(Constant.EXTRA_IMAGE_DRAWABLE, R.drawable.trending)
+                        .putExtra(Constant.EXTRA_TYPE,Constant.POPULAR)
                 )
             }
 
             //card our picks
             cardOurPicks -> {
                 startActivity(
-                    Intent(this@HomeActivity, ListActivity::class.java)
+                    Intent(this@HomeActivity, WallpaperListActivity::class.java)
                         .putExtra(Constant.EXTRA_IMAGE_URL, Constant.imageOurPicksURL)
                         .putExtra(Constant.EXTRA_IMAGE_DRAWABLE, R.drawable.picks)
+                        .putExtra(Constant.EXTRA_TYPE,Constant.OLDEST)
                 )
             }
 

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".screen.ListActivity">
+    tools:context=".screen.WallpaperListActivity">
 
     <TextView
         android:id="@+id/tvBack"
@@ -34,7 +34,7 @@
         android:id="@+id/rvWallyList"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_margin="@dimen/small_margin"
+        android:layout_marginTop="@dimen/tiny_margin"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/profile_image"

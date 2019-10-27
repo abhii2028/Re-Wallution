@@ -771,6 +771,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable picks
+drawable placeholder
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable trending
@@ -901,6 +902,7 @@ id image
 id info
 id invisible
 id italic
+id itemWallpaper
 id item_touch_helper_previous_elevation
 id ivAllList
 id ivFav
@@ -911,6 +913,7 @@ id line1
 id line3
 id listMode
 id list_item
+id loader
 id message
 id middle
 id multiply
@@ -933,6 +936,7 @@ id radio
 id right
 id right_icon
 id right_side
+id rvWallyList
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -1035,6 +1039,8 @@ layout activity_home
 layout activity_splash
 layout activity_wallpaper_list
 layout custom_dialog
+layout item_loader
+layout item_wallpaper
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -1076,12 +1082,14 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_fancy_name
 string app_name
-string card_all_list
+string author
 string card_fav
-string card_picks
-string card_trending
 string go_home
 string home_title
+string latest
+string location
+string oldest
+string popular
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

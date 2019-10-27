@@ -21,7 +21,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.rewallution.screen.ListActivity" />
+        <activity android:name="com.rewallution.screen.WallpaperListActivity" />
         <activity android:name="com.rewallution.screen.HomeActivity" />
         <activity android:name="com.rewallution.screen.SplashActivity" >
             <intent-filter>

@@ -1,9 +1,10 @@
 package com.rewallution.utility
 
 import android.app.Activity
+import android.content.Context
 import android.os.Build
+import android.util.DisplayMetrics
 import android.view.View
-import androidx.appcompat.app.AppCompatActivity
 
 /**
  *  Change the status bar style
@@ -40,4 +41,11 @@ fun Int?.checkInt(): Int {
         (this == null) -> 0
         else -> this
     }
+}
+
+/**
+ * Convert pixel to Dp
+ */
+fun convertPixelsToDp(px: Float, context: Context): Float {
+    return px / (context.resources.displayMetrics.densityDpi.toFloat() / DisplayMetrics.DENSITY_DEFAULT)
 }

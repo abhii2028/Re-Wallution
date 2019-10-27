@@ -13,6 +13,8 @@ interface ApiCalls {
 
         // Api
         const val PHOTOS = "photos"
+        const val SUCCESS = 200
+        const val FAILURE = 422
 
     }
 
@@ -22,7 +24,7 @@ interface ApiCalls {
 
     // interface which will give the result status and message
     interface APICallback {
-        fun onSuccess(status: Int, content: JsonElement? = null)
-        fun onFailed(status: Int, content: JsonElement? = null)
+        fun onSuccess(content: JsonElement? = null)
+        fun onFailed(content: JsonElement? = null)
     }
 }
